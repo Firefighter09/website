@@ -1,0 +1,10 @@
+body{
+    background-color:red;
+}
+
+hr{
+  border-color: greenyellow;
+    border-style: ridge;
+    border-width:15px;
+    width:90%;
+}
